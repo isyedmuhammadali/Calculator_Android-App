@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BasicCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <item name="colorPrimary">#ff9800</item>
+        <item name="colorPrimaryVariant">#ffc107</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+<!--        <item name="colorSecondary">@color/teal_200</item>-->
+<!--        <item name="colorSecondaryVariant">#ffc107</item>-->
+<!--        <item name="colorOnSecondary">@color/white</item>-->
+
+    </style>
+</resources>
